@@ -1,0 +1,6 @@
+{
+  "name": "Kiruba Learners",
+  "description": "Official WebView app for Kiruba Learners (https://kirubalearners.com).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
